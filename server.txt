@@ -1,0 +1,9 @@
+Operating systems:
+  any NT release of Windows Server
+  Debian 13
+
+Web Software:
+  nginx
+  PHP-FPM
+  SQLite
+  MySQL
