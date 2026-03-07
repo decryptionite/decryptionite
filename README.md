@@ -18,3 +18,9 @@ Languages I do not like to program in:
 <a href = 'client.txt'>
   Software I have used on my desktops
 </a>
+
+Other things that I like
+<ul>
+  <li>iPhones & iOS from 2007-2012</li>
+  <li>Windows Vista</li>
+</ul>
