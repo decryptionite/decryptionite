@@ -1,0 +1,24 @@
+Operating Systems:
+  Windows 95,98,ME,2000,XP,Vista,7,8.1,10
+  Mac OS X i dont care enough to remember the releases
+  i(Phone)OS 1-6, 15 (Dopamine jailbreak), whatever latest is
+
+Development Software:
+  Notepad++
+  MSYS2
+  Virtualbox - for local testing servers on Debian
+
+Administrative Software:
+  PuTTY
+  WinSCP
+  DB Browser for SQLite
+  Sysinternals Suite
+
+Misc:
+  Brave
+  Foobar2000
+  qBittorrent
+  KeePassXC
+  7-Zip
+  Paint.NET
+  
